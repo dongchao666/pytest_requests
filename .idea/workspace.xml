@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6c3f8ea-8742-4756-8ff1-215d7766130d" name="Default Changelist" comment="" />
+    <list default="true" id="c6c3f8ea-8742-4756-8ff1-215d7766130d" name="Default Changelist" comment="2021年4月7日15:03:52" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1qbiNJ2drOHR7vtifzHNkLLolA6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +34,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -149,7 +153,12 @@
       <workItem from="1617758557455" duration="4624000" />
       <workItem from="1617764699807" duration="2624000" />
       <workItem from="1617767750680" duration="1554000" />
-      <workItem from="1617770656912" duration="3921000" />
+      <workItem from="1617770656912" duration="4393000" />
+      <workItem from="1617777321065" duration="29000" />
+      <workItem from="1617777360446" duration="58000" />
+      <workItem from="1617777420615" duration="186000" />
+      <workItem from="1617778811881" duration="63000" />
+      <workItem from="1617779021260" duration="47000" />
     </task>
     <servers />
   </component>
